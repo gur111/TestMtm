@@ -3,8 +3,8 @@
 
 
 int main(void){
-	printf("Hello Mtm");
-	
+	// Hello
+	printf("Hello Mtm");	
 	return 0;
 
 }
