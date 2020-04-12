@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-int main() {
-    // Hello
-    printf("Hello Mtm");
-    return 0;
+
+int main(){
+	int num;
+	scanf("%d", &num);
+
+	printf("Hello Mtm %d", num);
+	return 0;
 }
