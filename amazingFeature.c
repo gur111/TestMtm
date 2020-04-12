@@ -1,5 +1,5 @@
 // FILL ME
 
 int doSomethingAmazing(int i){
-    return *i;
+    return i*i;
 }
